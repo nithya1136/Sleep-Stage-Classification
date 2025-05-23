@@ -6,4 +6,4 @@ torch==2.7.0
 scikit-learn==1.6.1
 matplotlib==3.10.3
 tqdm==4.67.1
-tensorflow==2.15.0  # or latest supported version
+tensorflow==2.14.0  # or latest supported version
