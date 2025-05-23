@@ -1,9 +1,9 @@
-numpy
-scipy
-pandas
-mne
-torch
-scikit-learn
-matplotlib
-tqdm
-tensorflow
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.2.3
+mne==1.9.0
+torch==2.7.0
+scikit-learn==1.6.1
+matplotlib==3.10.3
+tqdm==4.67.1
+tensorflow==2.15.0  # or latest supported version
