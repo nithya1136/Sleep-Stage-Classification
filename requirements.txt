@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+mne
+torch
+scikit-learn
+matplotlib
+tqdm
+tensorflow-cpu  # or latest supported version
+streamlit
